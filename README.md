@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center">� Welcome to MinhTu Thomas Hoang's GitHub �</h1>
+    <h1 align="center">✨ Welcome to MinhTu Thomas Hoang's GitHub </h1>
     <div align="center" style="margin-bottom: 10px">
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=40 height=40
