@@ -62,5 +62,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
         </a>
     </div>
+    <br/>
     <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=m1nhtu99-hoang9" /></div>
 </div>
