@@ -5,7 +5,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=40 height=40
                 alt="csharp" />
         </a>
-        <a href="" target="_blank">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"
                 height="40" alt="javascript" />
         </a>
@@ -17,15 +17,15 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width=40 height=40
                  alt="clojure" />
         </a>
-        <a>
+        <a href="https://clojurescript.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojurescript/clojurescript-original.svg" width=40
                 height=40 alt="clojurescript"/>
         </a>
-        <a href="" target="_blank">
+        <a href="https://www.typescriptlang.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40
                 height=40 alt="typescript" />
         </a>
-        <a>
+        <a href="https://www.haskell.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width=40 height=40
                 alt="haskell"/>
         </a>
@@ -34,18 +34,18 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width=40
                 height=40 alt="dotnetcore" />
         </a>
-        <a href="">
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
             <img
                 src="./sqlserver-icon.png" 
                 width=40
                 height=40
                 alt="microsoftsqlserver"/>
         </a>
-        <a>
+        <a href="https://www.mongodb.com/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=40 height=40
                 alt="mongodb"/>
         </a>
-        <a>
+        <a href="https://reactjs.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=40 height=40
                 alt="react & react-native"/>
         </a>
@@ -54,7 +54,7 @@
                 height="40" />
         </a>
         <span style="display:inline-block; margin-right:20px"></span>
-        <a>
+        <a href="https://ubuntu.com/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=40 height=40
                 alt="ubuntu"/>
         </a>
