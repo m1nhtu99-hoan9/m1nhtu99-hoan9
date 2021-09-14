@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center">✨ Welcome to MinhTu Thomas Hoang's GitHub </h1>
+    <h1 align="center">✨ Welcome to MinhTu Thomas Hoang's GitHub ✨</h1>
     <div align="center" style="margin-bottom: 10px">
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=40 height=40
@@ -29,7 +29,8 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width=40 height=40
                 alt="haskell"/>
         </a>
-        <span style="display:inline-block; margin-right:20px"></span>
+        <!--TODO: Find a more visually aesthetic splitter-->
+        <span><br/><br/></span>
         <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width=40
                 height=40 alt="dotnetcore" />
@@ -53,7 +54,8 @@
             <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"
                 height="40" />
         </a>
-        <span style="display:inline-block; margin-right:20px"></span>
+        <!--TODO: Find a more visually aesthetic splitter-->
+        <span><br/><br/></span>
         <a href="https://ubuntu.com/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=40 height=40
                 alt="ubuntu"/>
