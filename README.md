@@ -5,21 +5,21 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=40 height=40
                 alt="csharp" />
         </a>
+        <a href="https://fsharp.org/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" width=40 height=40
+                 alt="fsharp"/>
+        </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"
                 height="40" alt="javascript" />
         </a>
-        <a href="https://www.python.org/" target="_blank">
+       <a href="https://www.python.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40 height=40
                 alt="python" />
         </a>
         <a href="https://clojure.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width=40 height=40
                  alt="clojure" />
-        </a>
-        <a href="https://clojurescript.org/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojurescript/clojurescript-original.svg" width=40
-                height=40 alt="clojurescript"/>
         </a>
         <a href="https://www.typescriptlang.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40
